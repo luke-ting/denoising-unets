@@ -11,4 +11,4 @@ Latest stats
 | CARE             | 36.59    | 0.8822   | 0.0115   |
 
 CARE = Content-Aware image REstoration
-[https://www.nature.com/articles/s41592-018-0216-7](url)
+https://www.nature.com/articles/s41592-018-0216-7
